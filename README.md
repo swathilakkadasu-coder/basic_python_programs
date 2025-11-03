@@ -6,7 +6,7 @@ Basic Python Programs for String Manipulation — includes removing special char
 
 This repository by [@swathilakkadasu-coder](https://github.com/swathilakkadasu-coder) contains a single Python script that demonstrates *fundamental string manipulation techniques* using Python.
 
-## 📜 File
+##  File
 **Python code.py** – includes all the following programs in one file.
 
 ## 🔹 Programs Covered
@@ -25,7 +25,7 @@ This repository by [@swathilakkadasu-coder](https://github.com/swathilakkadasu-c
 5. *Replace Characters with ASCII Codes*  
    Converts each character in the string to its corresponding ASCII value.
 
-## 🚀 How to Run
+##  How to Run
 1. Clone this repository:
    ```bash
    https://github.com/swathilakkadasu-coder/Basic-Python-Programs-for-String-Manipulation-.git
