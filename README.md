@@ -28,4 +28,4 @@ This repository by [@swathilakkadasu-coder](https://github.com/swathilakkadasu-c
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/swathilakkadasu-coder/basic-python-string-programs.git
+   https://github.com/swathilakkadasu-coder/Basic-Python-Programs-for-String-Manipulation-.git
